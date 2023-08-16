@@ -1,0 +1,23 @@
+    [
+      {
+        "nama": "Yazid",
+        "npm": 31120174,
+        "email": "yazid@Gmail.com",
+        "jurusan": "manejemen",
+        "idWali": 1
+      },
+      {
+        "nama": "Dono",
+        "npm": 31120175,
+        "email": "dono@Gmail.com",
+        "jurusan": "manejemen",
+        "idWali": 2
+      },
+      {
+        "nama": "Andi",
+        "npm": 31120176,
+        "email": "andi@Gmail.com",
+        "jurusan": "manejemen",
+        "idWali": 2
+      }
+    ]
